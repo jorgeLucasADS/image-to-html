@@ -10,7 +10,7 @@ body.light {
     --text-color: #333;
     --muted-color: #777;
     --card-bg: #fff;
-    --footer-bg: --bg-color;
+    --footer-bg: #333;
     --footer-text: #eee;
 }
 
@@ -19,7 +19,7 @@ body.dark {
     --text-color: #eee;
     --muted-color: #aaa;
     --card-bg: #2a2a3d;
-    --footer-bg: --bg-color;
+    --footer-bg: #111;
     --footer-text: #ccc;
 }
 
